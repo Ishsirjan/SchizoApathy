@@ -65,3 +65,4 @@ jupyter notebook notebooks/SchizApathy_Final.ipynb
 ## 📬 Contact
 
 Reach out to Ishsirjan via GitHub or ishsirjanchandok.iskc@gmail.com for questions or collaborations.
+#anotherdatathatcanbeused - https://legacy.openfmri.org/dataset/ds000030/
