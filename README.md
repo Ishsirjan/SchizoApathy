@@ -54,7 +54,7 @@ schizapathy-connectivity/
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/schizapathy-connectivity.git
+git clone https://github.com/Ishsirjan/schizapathy-connectivity.git
 cd schizapathy-connectivity
 pip install -r requirements.txt
 jupyter notebook notebooks/SchizApathy_Final.ipynb
