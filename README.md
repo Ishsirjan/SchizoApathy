@@ -60,10 +60,8 @@ pip install -r requirements.txt
 jupyter notebook notebooks/SchizApathy_Final.ipynb
 ```
 
-## 📜 License
 
-MIT License
 
 ## 📬 Contact
 
-Reach out to Ishsirjan via GitHub or [insert email] for questions or collaborations.
+Reach out to Ishsirjan via GitHub or ishsirjanchandok.iskc@gmail.com for questions or collaborations.
